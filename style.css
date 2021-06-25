@@ -255,6 +255,19 @@ Extra (xl) large devices (large desktops, 1200px and up)
 
 
 
+#black {
+    display: block;
+    text-align: center;
+    color: rgb(211, 224, 230);
+    background-color: rgb(30, 40, 49);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+    top: 0;
+  left: 0;
+  opacity: 0.5;
+}
 
 
 
